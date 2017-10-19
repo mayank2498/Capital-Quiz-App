@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="AnswerBtn_width">300dp</dimen>
+    <dimen name="AnswerBtn_height">60dp</dimen>
+
+</resources>
